@@ -1,4 +1,4 @@
-# ⚡ Fetch + PHP: Páginas Dinámicas con Pokémon
+# Fetch + PHP: Páginas Dinámicas con Pokémon
 
 Este proyecto demuestra cómo construir **páginas web dinámicas** usando `fetch()` en JavaScript y PHP como backend, comunicándose de manera asíncrona con [PokéAPI](https://pokeapi.co/). La arquitectura sigue principios de **Programación Orientada a Objetos (POO)** con el uso de **interfaces, clases abstractas y clases concretas**, lo que mejora la organización, reutilización de código y escalabilidad.
 

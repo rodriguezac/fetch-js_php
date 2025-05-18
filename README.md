@@ -69,7 +69,7 @@ Este proyecto demuestra cómo construir **páginas web dinámicas** usando `fetc
    git clone https://github.com/rodriguezac/fetch-js_php.git
 2. Coloca el proyecto en tu servidor local (por ejemplo, htdocs en XAMPP).
 
-3. Abre http://localhost/UTPPHP/index.php en tu navegador.
+3. Abre http://localhost/index.php en tu navegador.
 
 ## 🧩 Tecnologías utilizadas
 
